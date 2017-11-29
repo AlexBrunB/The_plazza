@@ -1,0 +1,3 @@
+./fileTest/test ./fileTest/MonLivreOr.html ./fileTest/faq.html EMAIL_ADDRESS
+./fileTest/test ./fileTest/MonLivreOr.html ./fileTest/faq.html PHONE_NUMBER
+./fileTest/test ./fileTest/MonLivreOr.html ./fileTest/faq.html IP_ADDRESS
